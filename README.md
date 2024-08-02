@@ -2,6 +2,10 @@
 
 This project is a Node.js application that automates the process of finding LinkedIn company profiles for a list of companies. It uses various technologies and APIs to efficiently search and retrieve LinkedIn URLs.
 
+## Demo
+
+https://github.com/user-attachments/assets/233568eb-c02c-49df-9bca-f44aa2b454b0
+
 ## Technologies and Frameworks Used
 
 - **Node.js**: The runtime environment for executing the JavaScript code.
@@ -52,8 +56,4 @@ Run the script with:
 `node index.js`
 
 The script will process the companies and output the results to `output.csv`.
-
-## Demo
-
-https://github.com/user-attachments/assets/233568eb-c02c-49df-9bca-f44aa2b454b0
 
